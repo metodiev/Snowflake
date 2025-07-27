@@ -1,4 +1,4 @@
-# Prompt 1: Introduction to Snowflake and Its Architecture
+# Introduction to Snowflake and Its Architecture
 
 ---
 

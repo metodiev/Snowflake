@@ -1,4 +1,4 @@
-# Prompt 3: Filtering, Sorting, and Aggregation in Snowflake SQL
+# Filtering, Sorting, and Aggregation in Snowflake SQL
 
 ---
 
@@ -101,3 +101,11 @@ FROM employees
 GROUP BY department
 HAVING AVG(salary) > 90000;
 ```
+
+| Feature    | Purpose                           |
+| ---------- | --------------------------------- |
+| `WHERE`    | Filters individual rows           |
+| `ORDER BY` | Sorts results                     |
+| `GROUP BY` | Groups rows for aggregation       |
+| `HAVING`   | Filters groups after aggregation  |
+| Aggregates | `SUM()`, `AVG()`, `COUNT()`, etc. |

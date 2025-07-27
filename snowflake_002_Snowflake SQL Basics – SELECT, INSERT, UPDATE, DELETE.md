@@ -1,4 +1,4 @@
-# Prompt 2: Snowflake SQL Basics – SELECT, INSERT, UPDATE, DELETE
+# Snowflake SQL Basics – SELECT, INSERT, UPDATE, DELETE
 
 ---
 
